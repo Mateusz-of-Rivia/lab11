@@ -1,6 +1,7 @@
 # lab11
 
-#Odpowiedzi na pytania:
+# Odpowiedzi na pytania:
+
 Ile rekordów znajduje się w tabeli nyc_streets?
 
 
