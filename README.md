@@ -2,16 +2,26 @@
 
 # Odpowiedzi na pytania:
 
-Ile rekordów znajduje się w tabeli nyc_streets?
+1. Ile rekordów znajduje się w tabeli nyc_streets?
+
+Odp:
 
 
-Ile ulic w Nowym Jorku ma nazwy zaczynające się na „B”, „Q” i „M”?
+2. Ile ulic w Nowym Jorku ma nazwy zaczynające się na „B”, „Q” i „M”?
+
+Odp:
 
 
-Jaka jest populacja miasta Nowy Jork?
+3. Jaka jest populacja miasta Nowy Jork?
+
+Odp:
 
 
-Jaka jest populacja Bronxu, Manhattanu i Queens?
+4. Jaka jest populacja Bronxu, Manhattanu i Queens?
+
+Odp:
 
 
-Ile dzielnic ("neighborhoods") znajduje się w każdej gminie (borough)?
+5. Ile dzielnic ("neighborhoods") znajduje się w każdej gminie (borough)?
+
+Odp:
